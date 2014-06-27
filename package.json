@@ -1,16 +1,23 @@
 {
-  "name": "AppGUI",
+  "name": "genui",
   "version": "0.0.0",
-  "description": "General UI task1",
-  "main": "web.js",
+  "description": "General UI Task1",
+  "main": "genui.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rogelio Alvarez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rogervarez/Seattle-General-UI.git"
+  },
+  "author": "Rogelio-Alvarez",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rogervarez/Seattle-General-UI/issues"
+  },
+  "homepage": "https://github.com/Rogervarez/Seattle-General-UI",
   "dependencies": {
     "express": "^4.4.4",
     "logfmt": "^1.1.2"
-  },
-  "devDependencies": {}
+  }
 }
